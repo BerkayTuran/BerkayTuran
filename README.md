@@ -22,7 +22,6 @@ Vulnerability Management</h3>
 
 <p align="left">  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a> 
     <a href="" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png" width="45"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
