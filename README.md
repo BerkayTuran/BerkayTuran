@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Berkay</h1>
 <h3 align="center">Cyber Security, Advanced Attacks,
-Vulnerability Management</h3>
+Web Security</h3>
 <br></br>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
