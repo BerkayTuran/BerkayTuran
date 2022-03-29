@@ -20,7 +20,8 @@ Web Security</h3>
 
 ## 🚀 Languages and Tools:
 
-<p align="left">  
+<p align="left"> 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/BerkayTuran.png" alt="TryHackMe">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png" width="45"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
