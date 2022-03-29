@@ -49,9 +49,10 @@ Web Security</h3>
  
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 <a href = "https://www.linkedin.com/in/berkayturanz/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/berkayturanz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.twitter.com/berkayturanz/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://tryhackme.com/p/BerkayTuran"><img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
 </p>
 
