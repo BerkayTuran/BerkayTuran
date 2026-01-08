@@ -30,24 +30,6 @@ Web Security</h3>
 
 <br/>
 
-
-
-
-
-## 📊 My Github Stats
-<p>
-  <a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayturan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BerkayTuran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayturan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  <a href="https://github.com/BerkayTuran/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BerkayTuran&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
-</p>
-  
-<br/>
-<br/>
- 
-
 ## Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/berkayturanz/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -55,4 +37,3 @@ Web Security</h3>
 <a href = "https://www.twitter.com/berkayturanz/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://tryhackme.com/p/BerkayTuran"><img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
 </p>
-
